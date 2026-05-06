@@ -1,0 +1,26 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "main_questions": [
+        {"text": "Билет 1 - Вопрос 1", "options": ["A", "B", "C"], "correctAnswer": 0},
+        {"text": "Билет 1 - Вопрос 2", "options": ["A", "B", "C"], "correctAnswer": 1},
+        {"text": "Билет 1 - Вопрос 3", "options": ["A", "B", "C"], "correctAnswer": 2}
+      ],
+      "additional_questions": [
+        {"text": "Билет 1 - Доп. вопрос 1", "options": ["A", "B", "C"], "correctAnswer": 0},
+        {"text": "Билет 1 - Доп. вопрос 2", "options": ["A", "B", "C"], "correctAnswer": 1}
+      ]
+    },
+    {
+      "id": 2,
+      "main_questions": [
+        {"text": "Билет 2 - Вопрос 1", "options": ["A", "B", "C"], "correctAnswer": 0},
+        {"text": "Билет 2 - Вопрос 2", "options": ["A", "B", "C"], "correctAnswer": 1}
+      ],
+      "additional_questions": [
+        {"text": "Билет 2 - Доп. вопрос 1", "options": ["A", "B", "C"], "correctAnswer": 0}
+      ]
+    }
+  ]
+}
