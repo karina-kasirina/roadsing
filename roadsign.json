@@ -21,39 +21,39 @@
       },
         { "name": "Знак 1.4. Приближение к железнодорожному переезду",
         "description": "Дополнительное предупреждение о приближении к железнодорожному переезду вне населенных пунктов. Устанавливаются вне н. п. на расстоянии 150-300 метров, при этом расстояние между знаками пропорциональное.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.4.png.jpg?raw=true"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.4.png?raw=true"
       },
        { "name": "Знак 1.5. Пересечение с трамвайной линией",
         "description": "Устанавливается в н. п. за 50-100 м. до пересечения с трамвайной линией, вне н. п. — за 150-300 м, может устанавливаться и на ином расстоянии, но при этом расстояние оговаривается таб.8.1.1 «Расстояние до объекта».",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.5.png.jpg?raw=true"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.5.png.?raw=true"
       },
         { "name": "Знак 1.6. Пересечение равнозначных дорог",
         "description": "Устанавливается в н. п. за 50-100 м, вне н. п. — за 150-300 м, знак может устанавливаться и на ином расстоянии, но при этом расстояние оговаривается таб.8.1.1 «Расстояние до объекта».",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.6.png.jpg?raw=true"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.6.png?raw=true"
       },
        { "name": "Знак 1.7. Пересечение с круговым движением",
         "description": "Устанавливается в н. п. за 50-100 м, вне н. п. — за 150-300 м, знак может устанавливаться и на ином расстоянии, но при этом расстояние оговаривается таб.8.1.1 «Расстояние до объекта».",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.7.png.jpg?raw=true"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.7.png?raw=true"
       },
        { "name": "Знак 1.8. Светофорное регулирование",
         "description": "Перекресток, пешеходный переход или участок дороги, движение на котором регулируется светофором. Устанавливается в н. п. за 50-100 м, вне н. п. — за 150-300 м, знак может устанавливаться и на ином расстоянии, но при этом расстояние оговаривается таб.8.1.1 «Расстояние до объекта».",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.8.png.jpg?raw=true"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.8.png?raw=true"
       },
       { "name": "Знак 1.9. Разводной мост",
         "description": "Разводной мост или паромная переправа. Устанавливается в н. п. за 50-100 м, вне н. п. — за 150-300 м, знак может устанавливаться и на ином расстоянии, но при этом расстояние оговаривается таб.8.1.1«Расстояние до объекта».",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.9.png.jpg?raw=true"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.9.png?raw=true"
       },
        { "name": "Знак 1.10. Выезд на набережную",
         "description": "Выезд на набережную или берег. Устанавливается в н. п. за 50-100 м, вне н. п. — за 150-300 м, знак может устанавливаться и на ином расстоянии, но при этом расстояние оговаривается таб.8.1.1 «Расстояние до объекта».",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.10.png.jpg?raw=true"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.10.png?raw=true"
       },
       { "name": "Знак 1.11.1. Опасный поворот (правый)",
         "description": "Закругление дороги малого радиуса или с ограниченной видимостью. Устанавливается в н. п. за 50-100 м, вне н. п. — за 150-300 м, знак может устанавливаться и на ином расстоянии, но при этом расстояние оговаривается таб.8.1.1 «Расстояние до объекта».",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.11png.jpg?raw=true"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.11png?raw=true"
       },
         { "name": "Знак 1.11.2. Опасный поворот (левый)",
         "description": "Закругление дороги малого радиуса или с ограниченной видимостью. Устанавливается в н. п. за 50-100 м, вне н. п. — за 150-300 м, знак может устанавливаться и на ином расстоянии, но при этом расстояние оговаривается таб.8.1.1 «Расстояние до объекта».",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.11.2.png.jpg?raw=true"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/1.11.2.png?raw=true"
       },
       { "name": "Знак 1.12.1. Опасные повороты (с первым поворотом направо)",
         "description": "Участок дороги с опасными поворотами. Устанавливается в н. п. за 50-100 м, вне н. п. — за 150-300 м, знак может устанавливаться и на ином расстоянии, но при этом расстояние оговаривается таб.8.1.1 «Расстояние до объекта».",
