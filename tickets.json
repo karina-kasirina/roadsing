@@ -34,24 +34,26 @@
           "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/one.jpg",
           "options": ["A", "B", "C"],
           "correctAnswer": 1
-        },
-         {
+        }
+      ]
+    },
+    {
       "id": 2,
       "main_questions": [
         {
-          "text": "Билет 1 - Вопрос 1. Какой знак изображен?",
+          "text": "Билет 2 - Вопрос 1. Какой знак изображен?",
           "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/one.jpg",
           "options": ["Предупреждающий", "Запрещающий", "Информационный"],
           "correctAnswer": 0
         },
         {
-          "text": "Билет 1 - Вопрос 2. Можно ли обгонять?",
+          "text": "Билет 2 - Вопрос 2. Можно ли обгонять?",
           "image": "",
           "options": ["Да", "Нет", "Только днем"],
           "correctAnswer": 1
         },
         {
-          "text": "Билет 1 - Вопрос 3. Разрешена ли парковка?",
+          "text": "Билет 2 - Вопрос 3. Разрешена ли парковка?",
           "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/sign.jpg",
           "options": ["Да", "Нет", "Только для инвалидов"],
           "correctAnswer": 2
@@ -59,13 +61,13 @@
       ],
       "additional_questions": [
         {
-          "text": "Билет 1 - Доп. вопрос 1",
+          "text": "Билет 2 - Доп. вопрос 1",
           "image": "",
           "options": ["A", "B", "C"],
           "correctAnswer": 0
         },
         {
-          "text": "Билет 1 - Доп. вопрос 2",
+          "text": "Билет 2 - Доп. вопрос 2",
           "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/one.jpg",
           "options": ["A", "B", "C"],
           "correctAnswer": 1
