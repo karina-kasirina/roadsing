@@ -224,82 +224,82 @@
       {
         "name": "Знак 3.2. Движение запрещено",
         "description": "апрещается движение всех транспортных средств. Запрещает движение соответствующих видов транспортных средств в обоих направлениях.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.2.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.2.png?raw=true"
       },
       {
         "name": "Знак 3.3. Движение механических транспортных средств запрещено",
         "description": "Движение механических транспортных средств запрещено. Гужевые повозки, велосипеды и веломобили могут продолжать движение. Запрещает движение соответствующих видов транспортных средств в обоих направлениях.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.3.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.3.png?raw=true"
       },
       {
         "name": "Знак 3.4. Движение грузовых автомобилей запрещено",
         "description": "Запрещается движение грузовых автомобилей и составов транспортных средств с разрешенной максимальной массой более 3,5 т (если на знаке не указана масса) или с разрешенной максимальной массой более указанной на знаке, а также тракторов и самоходных машин.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.4.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.4.png?raw=true"
       },
       {
         "name": "Знак 3.5. Движение мотоциклов запрещено",
         "description": "Запрещается движение любых мотоциклов (колясками и без них). Запрещает движение соответствующих видов транспортных средств в обоих направлениях.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.5.png?raw=truurl_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.5.png?raw=true"
       },
       {
         "name": "Знак 3.6. Движение тракторов запрещено",
         "description": "Запрещается движение тракторов любых видов и самоходных машин (скреперов, грейдеров и т. п.). Запрещает движение соответствующих видов транспортных средств в обоих направлениях.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.6.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.6.png?raw=true"
       },
        {
         "name": "Знак 3.7. Движение с прицепом запрещено",
         "description": "Запрещается движение грузовых автомобилей и тракторов с прицепами любого типа, а также буксировка механических транспортных средств. Запрещает движение соответствующих видов транспортных средств в обоих направлениях.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.7.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.7.png?raw=true"
       },
        {
         "name": "Знак 3.8. Движение гужевых повозок запрещено",
         "description": "Запрещается движение гужевых повозок (саней), верховых и вьючных животных, а также прогон скота. Запрещает движение соответствующих видов транспортных средств в обоих направлениях.",
-        "image": "url_to_sign_imagehttps://github.com/karina-kasirina/roadsing/blob/main/3.8.png?raw=tru"
+        "image": "url_to_sign_imagehttps://github.com/karina-kasirina/roadsing/blob/main/3.8.png?raw=true"
       },
        {
         "name": "Знак 3.9. Движение на велосипедах запрещено",
         "description": "Запрещается движение велосипедистов и мопедов. (Изменения вступили в силу: 1 марта 2023 года). Запрещает движение соответствующих видов транспортных средств в обоих направлениях.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.9.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.9.png?raw=true"
       },
        {
         "name": "Знак 3.10. Движение пешеходов запрещено",
         "description": "Запрещается движение пешеходов, а также лиц, использующих для передвижения средства индивидуальной мобильности. (Изменения вступили в силу: 1 марта 2023 года).",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.10.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.10.png?raw=true"
       },
        {
         "name": "Знак 3.11. Ограничение массы",
         "description": "Запрещается движение транспортных средств, в том числе составов транспортных средств, общая фактическая масса которых больше указанной на знаке.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.11.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.11.png?raw=true"
       },
        {
         "name": "Знак 3.12. Ограничение массы, приходящейся на ось транспортного средства",
         "description": "Запрещается движение транспортных средств, у которых фактическая масса, приходящаяся на какую-либо ось, превышает указанную на знаке.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.12.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.12.png?raw=true"
       },
              {
         "name": "Знак 3.13. Ограничение высоты",
         "description": "Запрещается движение транспортных средств, габаритная высота которых (с грузом или без груза) больше указанной на знаке.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.13.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.13.png?raw=true"
       },
              {
         "name": "Знак 3.14. Ограничение ширины",
         "description": "апрещается движение транспортных средств, габаритная ширина которых (с грузом или без груза) больше указанной на знаке.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.14.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.14.png?raw=true"
       },
              {
         "name": "Знак 3.15. Ограничение длины",
         "description": "Запрещается движение транспортных средств (составов транспортных средств) габаритная длина которых (с грузом или без груза) больше указанной на знаке.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.15.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.15.png?raw=true"
       },
              {
         "name": "Знак 3.16. Ограничение минимальной дистанции",
         "description": "Запрещается движение транспортных средств с дистанцией между ними меньше указанной на знаке.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.16.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.16.png?raw=true"
       },
              {
         "name": "Знак 3.17.1. Таможня",
         "description": "Запрещается проезд без остановки у таможни (контрольного пункта).",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.17.1.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.17.1.png?raw=true"
       },
              {
         "name": "Знак 3.17.2. Опасность",
@@ -309,102 +309,102 @@
        {
         "name": "Знак 3.17.3. Контроль",
         "description": "Запрещается проезд без остановки через контрольные пункты.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.17.3.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.17.3.png?raw=true"
       },
        {
         "name": "Знак 3.18.1. Поворот направо запрещен",
         "description": "Запрещает поворот направо.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.18.1.png?raw=truurl_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.18.1.png?raw=true"
       },
        {
         "name": "Знак 3.18.2. Поворот налево запрещен",
         "description": "Запрещает поворот налево.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.18.2.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.18.2.png?raw=true"
       },
        {
         "name": "Знак 3.19. Разворот запрещен",
         "description": "ОБРАТИТЕ ВНИМАНИЕ: знак не запрещает поворот налево.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.19.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.19.png?raw=true"
       },
        {
         "name": "Знак 3.20. Обгон запрещен",
         "description": "Запрещается обгон всех транспортных средств, кроме тихоходных транспортных средств, гужевых повозок, велосипедов, мопедов и двухколесных мотоциклов без бокового прицепа.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.20.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.20.png?raw=true"
       },
        {
         "name": "Знак 3.21. Конец зоны запрещения обгона",
         "description": "Отменяет действие знака 3.20 «Обгон запрещен».",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.21.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.21.png?raw=true"
       },
        {
         "name": "Знак 3.22. Обгон грузовым автомобилем запрещен",
         "description": "Запрещается грузовым автомобилям с разрешенной максимальной массой более 3.5 т. обгон всех транспортных средств без исключения.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.22.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.22.png?raw=true"
       },
        {
         "name": "Знак 3.23. Конец зоны запрещения обгона грузовым автомобилям",
         "description": "Отменяет действие знака 3.22 «Обгон грузовым автомобилям запрещен».",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.23.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.23.png?raw=true"
       },
        {
         "name": "Знак 3.24. Ограничение максимальной скорости",
         "description": "Запрещается движение со скоростью (км/ч), превышающей указанную на знаке.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.24.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.24.png?raw=true"
       },
        {
         "name": "Знак 3.25. Конец зоны ограничения максимальной скорости",
         "description": "Отменяет действие знака 3.24 «Ограничение максимальной скорости».",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.25.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.25.png?raw=true"
       },
        {
         "name": "Знак 3.26. Подача звукового сигнала запрещена",
         "description": "Запрещается пользоваться звуковыми сигналами, кроме тех случаев, когда сигнал подается для предотвращения дорожно-транспортного происшествия.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.26.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.26.png?raw=true"
       },
        {
         "name": "Знак 3.27. Остановка запрещена",
         "description": "Запрещаются остановка и стоянка транспортных средств. Распространяется только на ту сторону дороги, на которой он установлен.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.27.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.27.png?raw=true"
       },
        {
         "name": "Знак 3.28. Стоянка запрещена",
         "description": "Запрещается стоянка транспортных средств. Распространяется только на ту сторону дороги, на которой он установлен.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.28.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.28.png?raw=true"
       },
        {
         "name": "Знак 3.29. Стоянка запрещена по нечетным числам месяца",
         "description": "При одновременном применении знаков 3.29 и 3.30 на противоположных сторонах проезжей части разрешается стоянка на обеих сторонах проезжей части с 21 часа до 24 часов (время перестановки). (Изменения вступили в силу: 1 марта 2023 года).",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.29.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.29.png?raw=true"
       },
        {
         "name": "Знак 3.30. Стоянка запрещена по четным числам месяца",
         "description": "При одновременном применении знаков 3.29 и 3.30 на противоположных сторонах проезжей части разрешается стоянка на обеих сторонах проезжей части с 21 часа до 24 часов (время перестановки). (Изменения вступили в силу: 1 марта 2023 года).",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.30.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.30.png?raw=true"
       },
        {
         "name": "Знак 3.31. Конец зоны всех ограничений",
         "description": "Отменяет действие следующих запрещающих знаков (установленных вместе или последовательно): 1) 3.16 Ограничение минимальной дистанции; 2) 3.20 Обгон запрещен; 3) 3.22 Обгон грузовым автомобилям запрещен; 4) 3.24 Ограничение максимальной скорости; 5) 3.26 Подача звукового сигнала запрещена; 6) 3.27 Остановка запрещена; 7) 3.28 Стоянка запрещена; 8) 3.29 Стоянка запрещена по нечетным числам месяца; 9) 3.30 Стоянка запрещена по четным числам месяца. ",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.31.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.31.png?raw=true"
       },
        {
         "name": "Знак 3.32. Движение транспортных средств с опасными грузами запрещено",
         "description": "Запрещает движение транспортных средств, оборудованных опознавательными знаками (информационными табличками) «Опасный груз».",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.32.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.32.png?raw=true"
       },
        {
         "name": "Знак 3.33. Движение транспортных средств с взрывчатыми и легковоспламеняющимися грузами запрещено",
         "description": "Запрещает движение транспортных средств, осуществляющих перевозку взрывчатых веществ и изделий, а также других опасных грузов, подлежащих маркировке как легковоспламеняющиеся, кроме случаев перевозки указанных опасных веществ и изделий в ограниченном количестве, определяемом в порядке, установленном специальными правилами перевозки.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.33.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.33.png?raw=true"
       },
        {
         "name": "Знак 3.34. Движение автобусов запрещено",
         "description": "Запрещает движение соответствующих видов транспортных средств в обоих направлениях.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.34.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.34.png?raw=true"
       },
        {
         "name": "Знак 3.35 Движение на средствах индивидуальной мобильности запрещено",
         "description": "Движение на средствах индивидуальной мобильности запрещено",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.35.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/3.35.png?raw=true"
       }
     
     ],
@@ -412,113 +412,113 @@
         {
         "name": "Знак 4.1.1. Движение прямо",
         "description": "1. Разрешается движение только прямо в случае, когда знак установлен непосредственно перед пересечением проезжих частей. 2. Если знак установлен в начале участка дороги (т.е. на каком-либо расстоянии до пересечения дорог), то в этом случае знак не запрещает поворот только направо во дворы и на другие прилегающие территории (заправки, стоянки отдыха и т.п.). Может быть применен знак с конфигурацией стрелок, соответствующей требуемым направлениям движения на конкретном пересечении.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.1.1.png?raw=true"
       },
       {
         "name": "Знак 4.1.2. Движение направо",
         "description": "Разрешается движение только направо.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.1.2.png?raw=true"
       },
        {
         "name": "Знак 4.1.3. Движение налево",
         "description": "Разрешается только движение налево или разворот.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.1.3.png?raw=true"
       },
        {
         "name": "Знак 4.1.4. Движение прямо или направо",
         "description": "Разрешается движение только прямо или направо.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.1.4.png?raw=true"
       },
        {
         "name": "Знак 4.1.5. Движение прямо или налево",
         "description": "Разрешается только движение прямо, налево или разворот.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.1.5.png?raw=true"
       },
        {
         "name": "Знак 4.1.6. Движение направо или налево",
         "description": "Разрешается движение только направо, налево, а также, разворот.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.1.6.png?raw=true"
       },
        {
         "name": "Знак 4.2.1. Объезд препятствия справа",
         "description": "Указывает, что объезд различного рода препятствий на проезжей части (в том числе островков безопасности) разрешается со стороны, указанной стрелкой.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.2.1.png?raw=true"
       },
        {
         "name": "Знак 4.2.2. Объезд препятствия слева",
         "description": "Указывает, что объезд различного рода препятствий на проезжей части (в том числе островков безопасности) разрешается со стороны, указанной стрелкой.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.2.2.png?raw=true"
       },
        {
         "name": "Знак 4.2.3. Объезд препятствия справа или слева",
         "description": "Объезд препятствия разрешается с любой стороны.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.2.3.png?raw=true"
       },
          {
         "name": "Знак 4.3. Круговое движение",
         "description": "Движение организовано по кругу в направлении стрелок.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.3.png?raw=true"
       },
          {
         "name": "Знак 4.4.1. Велосипедная дорожка",
         "description": "Разрешается движение только на велосипедах. По велосипедной дорожке могут двигаться также пешеходы (при отсутствии тротуара или пешеходной дорожки).",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.4.1.png?raw=true"
       },
          {
         "name": "Знак 4.4.2. Конец велосипедной дорожки",
         "description": "Конец зоны действия знака 4.4.1.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.4.2.png?raw=true"
       },
          {
         "name": "Знак 4.5.1. Пешеходная дорожка",
         "description": "Разрешается движение пешеходам, лицам, использующим для передвижения средства индивидуальной мобильности, и велосипедистам в случаях, указанных в пунктах 24.2, 24.3, 24.4 и 24.6 настоящих Правил. (Изменения вступили в силу: 1 марта 2023 года).",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.5.1.png?raw=true"
       },
          {
         "name": "Знак 4.5.2. Пешеходная и велосипедная дорожка с совмещенным движением (велопешеходная дорожка с совмещенным движением)",
         "description": "Пешеходная и велосипедная дорожка с совмещенным движением (велопешеходная дорожка с совмещенным движением).",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.5.2.png?raw=true"
       },
          {
         "name": "Знак 4.5.3. Конец пешеходной и велосипедной дорожки с совмещенным движением (конец велопешеходной дорожки с совмещенным движением)",
         "description": "Конец велопешеходной дорожки с совмещенным движением.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.5.3.png?raw=true"
       },
          {
         "name": "Знак 4.5.4. Пешеходная и велосипедная дорожка с разделением движения",
         "description": "Велопешеходная дорожка с разделением на велосипедную и пешеходную стороны дорожки, выделенные конструктивно и (или) обозначенные горизонтальной разметкой 1.2, 1.23.2 и 1.23.3 или иным способом.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.5.4.png?raw=true"
       },
          {
         "name": "Знак 4.5.5. Пешеходная и велосипедная дорожка с разделением движения",
         "description": "Велопешеходная дорожка с разделением на велосипедную и пешеходную стороны дорожки, выделенные конструктивно и (или) обозначенные горизонтальной разметкой 1.2, 1.23.2 и 1.23.3 или иным способом.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.5.5.png?raw=true"
       },
          {
         "name": "Знак 4.5.6. Конец пешеходной и велосипедной дорожки с разделением движения (конец велопешеходной дорожки с разделением движения)",
         "description": "Конец велопешеходной дорожки с разделением движения.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.5.6.png?raw=true"
       },
          {
         "name": "Знак 4.5.7. Конец пешеходной и велосипедной дорожки с разделением движения (конец велопешеходной дорожки с разделением движения)",
         "description": "Конец велопешеходной дорожки с разделением движения.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.5.7.png?raw=true"
       },
          {
         "name": "Знак 4.6. Ограничение минимальной скорости",
         "description": "Разрешается движение только с указанной или большей скоростью (км/ч).",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.6.png?raw=true"
       },
        {
         "name": "Знак 4.7. Конец зоны ограничения минимальной скорости",
         "description": "Отменяет действие знака 4.6 «Ограничение минимальной скорости».",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.7.png?raw=true"
       },
 
       {
         "name": "Знак 4.8.1, 4.8.2, 4.8.3. Направление движения транспортных средств с опасными грузами",
         "description": "Движение транспортных средств, оборудованных опознавательными знаками (информационными табличками) «Опасный груз», разрешается только в направлении, указанном на знаке: 4.8.1 - прямо, 4.8.2 - направо, 4.8.3 - налево.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/4.8.png?raw=true"
       }
     ],
     "special_instructions": [
