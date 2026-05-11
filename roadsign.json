@@ -525,42 +525,42 @@
          {
         "name": "Знак 5.1. Автомагистраль",
         "description": "Дорога, на которой действуют требования Правил дорожного движения Российской Федерации, устанавливающие порядок движения по автомагистралям. Данная дорога является наиболее скоростной.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.1.png?raw=tru"
       },
        {
         "name": "Знак 5.2. Конец автомагистрали",
         "description": "Указывает конец автомагистрали, обозначенной знаком 5.1. Устанавливается в конце автомагистрали и в начале съездов с нее.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.2.png?raw=tru"
       },
        {
         "name": "Знак 5.3. Дорога для автомобилей",
         "description": "Дорога, предназначенная для движения только автомобилей, автобусов и мотоциклов.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.3.png?raw=tru"
       },
        {
         "name": "Знак 5.4. Конец дороги для автомобилей",
-        "description": "Указывает конец дороги, обозначенной знаком 5.3 «Дорога для автомобилей».",
+        "description": "Указывает конец дороги, обозначенной знаком 5.4 «Дорога для автомобилей».",
         "image": "url_to_sign_image"
       },
        {
         "name": "Знак 5.5. Дорога с односторонним движением",
         "description": "Дорога или проезжая часть, по которой движение механических транспортных средств по всей ширине осуществляется в одном направлении.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.5.png?raw=tru"
       },
        {
         "name": "Знак 5.6. Конец дороги с односторонним движением",
         "description": "Указывает конец дороги или проезжей части, обозначенной знаком 5.5 «Дорога с односторонним движением».",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.6.png?raw=tru"
       },
        {
         "name": "Знаки 5.7.1., 5.7.2. Выезд на дорогу с односторонним движением.",
         "description": "Выезд на дорогу или проезжую часть с односторонним движением. Устанавливаются перед всеми боковыми выездами на дорогу с односторонним движением.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.7.png?raw=tru"
       },
        {
         "name": "Знак 5.8. Реверсивное движение",
         "description": "Начало участка дороги, на котором на одной или нескольких полосах направление движения может изменяться на противоположное.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.8.png?raw=tru"
       },
        {
         "name": "Знак 5.9. Конец реверсивного движения",
