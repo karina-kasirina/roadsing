@@ -13,7 +13,7 @@
         },
         {
           "text": "Билет 1 - Вопрос 2. Разрешен ли обгон на этом участке?",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/1-2.jpg",
           "options": ["Да", "Нет", "Только при отсутствии встречного транспорта"],
           "correctAnswer": 1,
           "category": "Обгон и маневрирование",
