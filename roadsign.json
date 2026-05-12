@@ -525,287 +525,287 @@
          {
         "name": "Знак 5.1. Автомагистраль",
         "description": "Дорога, на которой действуют требования Правил дорожного движения Российской Федерации, устанавливающие порядок движения по автомагистралям. Данная дорога является наиболее скоростной.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.1.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.1.png?raw=true"
       },
        {
         "name": "Знак 5.2. Конец автомагистрали",
         "description": "Указывает конец автомагистрали, обозначенной знаком 5.1. Устанавливается в конце автомагистрали и в начале съездов с нее.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.2.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.2.png?raw=true"
       },
        {
         "name": "Знак 5.3. Дорога для автомобилей",
         "description": "Дорога, предназначенная для движения только автомобилей, автобусов и мотоциклов.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.3.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.3.png?raw=true"
       },
        {
         "name": "Знак 5.4. Конец дороги для автомобилей",
         "description": "Указывает конец дороги, обозначенной знаком 5.4 «Дорога для автомобилей».",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.4.png?raw=true"
       },
        {
         "name": "Знак 5.5. Дорога с односторонним движением",
         "description": "Дорога или проезжая часть, по которой движение механических транспортных средств по всей ширине осуществляется в одном направлении.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.5.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.5.png?raw=true"
       },
        {
         "name": "Знак 5.6. Конец дороги с односторонним движением",
         "description": "Указывает конец дороги или проезжей части, обозначенной знаком 5.5 «Дорога с односторонним движением».",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.6.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.6.png?raw=true"
       },
        {
         "name": "Знаки 5.7.1., 5.7.2. Выезд на дорогу с односторонним движением.",
         "description": "Выезд на дорогу или проезжую часть с односторонним движением. Устанавливаются перед всеми боковыми выездами на дорогу с односторонним движением.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.7.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.7.png?raw=true"
       },
        {
         "name": "Знак 5.8. Реверсивное движение",
         "description": "Начало участка дороги, на котором на одной или нескольких полосах направление движения может изменяться на противоположное.",
-        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.8.png?raw=tru"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.8.png?raw=true"
       },
        {
         "name": "Знак 5.9. Конец реверсивного движения",
         "description": "Отменяет действие знака 5.8 «Реверсивное движение».",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.9.png?raw=true"
       },
       {
         "name": "Знак 5.10. Выезд на дорогу с реверсивным движением",
         "description": "Знак применяется для обозначения выезда на дорогу с реверсивным движением. Устанавливается перед всеми боковыми выездами на такую дорогу.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.10.png?raw=true"
       },
       {
         "name": "Знак 5.11.1. Дорога с полосой для маршрутных транспортных средств",
         "description": "Дорога, по которой транспортные средства, допущенные к движению по полосам для маршрутных транспортных средств, движутся по специально выделенной полосе навстречу общему потоку транспортных средств",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.11.1.png?raw=true"
       },
       {
         "name": "Знак 5.11.2. Дорога с полосой для велосипедистов",
         "description": "Дорога, по которой движение велосипедистов, лиц, использующих для передвижения средства индивидуальной мобильности, и водителей мопедов осуществляется по специально выделенной полосе навстречу общему потоку транспортных средств.(Изменения вступили в силу: 1 марта 2023 года).",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.11.2.png?raw=true"
       },
       {
         "name": "Знак 5.12.1. Конец дороги с полосой для маршрутных транспортных средств",
         "description": "Отменяет действие знака 5.11.1 «Дорога с полосой для маршрутных транспортных средств».",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.12.1.png?raw=true"
       },
       {
         "name": "Знак 5.12.2. Конец дороги с полосой для велосипедистов",
         "description": "Дорожный знак представляет собой дорожный знак 5.11.2, изображение которого перечеркнуто диагональной красной полосой из левого нижнего угла в правый верхний угол знака.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.12.2.png?raw=true"
       },
       {
         "name": "Знаки 5.13.1., 5.13.2. Выезд на дорогу с полосой для маршрутных транспортных средств",
         "description": "Выезд на дорогу с полосой для маршрутных транспортных средств (знак 5.11.1), движение которых осуществляется по специально выделенной полосе навстречу общему потоку движения транспортных средств.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.13.1.2.png?raw=true"
       },
       {
         "name": "Знак 5.13.3. Выезд на дорогу с полосой для велосипедистов",
         "description": "",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.13.3.png?raw=true"
       },
        {
         "name": "Знак 5.13.4. Выезд на дорогу с полосой для велосипедистов",
         "description": "",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.13.4.png?raw=true"
       },
        {
         "name": "Знак 5.14.1 Полоса для маршрутных транспортных средств",
         "description": "Специально выделенная полоса, по которой транспортные средства, допущенные к движению по полосам для маршрутных транспортных средств, движутся попутно общему потоку транспортных средств. (Изменения вступили в силу: 1 марта 2023 года.)  Действие знака распространяется на полосу, над которой он расположен. Действие знака, установленного справа от дороги, распространяется на правую полосу.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.14.1.png?raw=true"
       },
       {
         "name": "Знак 5.14.2 Полоса для велосипедистов",
         "description": "Действие знака распространяется на полосу, над которой он расположен. Действие знака, установленного справа от дороги, распространяется на правую полосу.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.14.2.png?raw=true"
       },
       {
         "name": " Знак 5.14.3 Конец полосы для маршрутных транспортных средств",
         "description": "Действие знака распространяется на полосу, над которой он расположен. Действие знака, установленного справа от дороги, распространяется на правую полосу.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.14.3.png?raw=true"
       },
       {
         "name": "Знак 5.14.4 Конец полосы для велосипедистов",
         "description": "Действие знака распространяется на полосу, над которой он расположен. Действие знака, установленного справа от дороги, распространяется на правую полосу.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.14.4.png?raw=true"
       },
       {
         "name": "Знак 5.15.1. Направления движения по полосам",
         "description": "Число полос и разрешенные направления движения по каждой из них.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.15.1.png?raw=true"
       },
       {
         "name": "Знак 5.15.2. Направления движения по полосе",
         "description": "Разрешенные направления движения по полосе.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.15.2.png?raw=true"
       },
        {
         "name": "Знак 5.15.3. Начало полосы",
         "description": "Начало дополнительной полосы на подъеме или полосы торможения (например, на автомагистрали перед организованной стоянкой). Если на знаке, установленном перед дополнительной полосой, изображен знак (знаки) 4.6 «Ограничение минимальной скорости», то водитель транспортного средства, которое не может продолжать движение по основной полосе с указанной и большей скоростью, должен перестроиться на полосу, расположенную справа от него.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.15.3.png?raw=true"
       },
        {
         "name": "Знак 5.15.4. Начало полосы",
         "description": "Начало участка средней полосы трехполосной дороги, предназначенного для движения в данном направлении.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.15.4.png?raw=true"
       },
        {
         "name": "Знак 5.15.5. Конец полосы",
         "description": "Конец дополнительной полосы на подъеме или полосы разгона. Отменяет действие знака 5.15.3 «Начало полосы».",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.15.5.png?raw=true"
       },
        {
         "name": "Знак 5.15.6 Конец полосы",
         "description": "Конец участка средней полосы на трехполосной дороге, предназначенного для движения в данном направлении. Отменяет действие знака 5.15.4 «Начало полосы».",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.15.6.png?raw=true"
       },
        {
         "name": "Знак 5.15.7. Направление движения по полосам",
         "description": "Разрешенное направление движения по полосам.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.15.7.png?raw=true"
       },
        {
         "name": "Знак 5.15.8. Число полос",
         "description": "Указывает число полос движения и режимы движения по полосам. Водитель обязан выполнять требования знаков, нанесенных на стрелки.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.15.8.png?raw=true"
       },
        {
         "name": "Знак 5.15.9. Начало полос",
         "description": "Используется для обозначения начала полос движения при одновременном увеличении числа полос в попутном направлении справа и слева.Используется для обозначения начала полос движения при одновременном увеличении числа полос в попутном направлении справа и слева.                                                                                                    ",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.15.9.png?raw=true"
       },
        {
         "name": "Знак 5.16. Место остановки автобуса и (или) троллейбуса",
         "description": "Место остановки автобуса и (или) троллейбуса, движущихся по установленным маршрутам, а также маршрутного такси.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.16.png?raw=true"
       },
        {
         "name": "Знак 5.17. Место остановки трамвая",
         "description": "",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.17.png?raw=true"
       },
        {
         "name": "Знак 5.18. Место стоянки легковых такси",
         "description": "",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.18.png?raw=true"
       },
        {
         "name": "Знаки 5.19.1., 5.19.2. Пешеходный переход",
         "description": "При отсутствии на переходе разметки 1.14.1 или 1.14.2 знак 5.19.1 устанавливается справа от дороги на ближней границе перехода относительно приближающихся транспортных средств, а знак 5.19.2 - слева от дороги на дальней границе перехода.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.19.png?raw=true"
       },
        {
         "name": "Знак 5.20. Искусственная неровность",
         "description": "Обозначает границы искусственной неровности.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.20.png?raw=true"
       },
       {
         "name": "Знак 5.21. Жилая зона",
         "description": "Территория, на которой действуют требования Правил дорожного движения Российской Федерации, устанавливающие порядок движения в жилой зоне.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.21.png?raw=true"
       },
       {
         "name": "Знак 5.22. Конец жилой зоны",
         "description": "Указывает конец жилой зоны, обозначенной знаком 5.21 «Жилая зона».",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.22.png?raw=true"
       },
       {
         "name": "Знаки 5.23.1., 5.23.2. Начало населенного пункта",
         "description": "Начало населенного пункта, в котором действуют требования Правил дорожного движения Российской Федерации, устанавливающие порядок движения в населенных пунктах",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.23.1.2.png?raw=true"
       },
       {
         "name": "Знаки 5.24.1., 5.24.2. Конец населенного пункта",
         "description": "Место, с которого на данной дороге утрачивают силу требования Правил дорожного движения Российской Федерации, устанавливающие порядок движения в населенных пунктах.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.24.1.2.png?raw=true"
       },
       {
         "name": "Знак 5.25. Начало населенного пункта",
         "description": "Начало населенного пункта, в котором на данной дороге не действуют требования Правил дорожного движения Российской Федерации, устанавливающие порядок движения в населенных пунктах.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.25.png?raw=true"
       },
        {
         "name": "Знак 5.26. Конец населенного пункта",
         "description": "Конец населенного пункта, обозначенного знаком 5.25.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.26.png?raw=true"
       },
        {
         "name": "Знак 5.27. Зона с ограничением стоянки",
         "description": "Место, с которого начинается территория (участок дороги), где стоянка запрещена.",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.27.png?raw=true"
       },
        {
         "name": "Знак 5.28. Конец зоны с ограничением стоянки",
         "description": "Отменяет действие знака 5.27 «Зона с ограничением стоянки».",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.28.png?raw=true"
       },
        {
         "name": "Знак 5.29. Зона регулируемой стоянки",
         "description": "Место, с которого начинается территория (участок дороги), где стоянка разрешена и регулируется с помощью табличек и разметки.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.29.png?raw=true"
       },
        {
         "name": "Знак 5.30. Конец зоны регулируемой стоянки",
         "description": "Отменяет действие знака 5.29 «Зона регулируемой стоянки».",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.30.png?raw=true"
       },
        {
         "name": "Знак 5.31. Зона с ограничением максимальной скорости",
         "description": "Место, с которого начинается территория (участок дороги), где ограничена максимальная скорость движения.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.31.png?raw=true"
       },
        {
         "name": "Знак 5.32. Конец зоны с ограничением максимальной скорости",
         "description": "Отменяет действие знака 5.31 «Зона с ограничением максимальной скорости». ",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.32.png?raw=true"
       },
        {
         "name": "Знак 5.33. Пешеходная зона",
         "description": "Место, с которого начинается территория (участок дороги), на которой разрешено движение пешеходов и в случаях, установленных пунктами 24.2 Правил, 24.3 Правил, 24.4 Правил и 24.6 Правил настоящих Правил, лиц, использующих для движения средства индивидуальной мобильности, и велосипедистов. (Изменения вступили в силу: 1 марта 2023 года).",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.33.png?raw=true"
       },
         {
         "name": "Знак 5.34. Конец пешеходной зоны",
         "description": "Отменяет действие знака 5.33 «Пешеходная зона». ",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.34.png?raw=true"
       },
         {
         "name": "Знак 5.35. Зона с ограничением экологического класса механических транспортных средств",
         "description": "Место с которого начинается территория (участок дороги), где запрещено движение механических транспортных средств: экологический класс которых, указанный в регистрационных документах на эти транспортные средства, ниже экологического класса, указанного на знаке; экологический класс которых не указан в регистрационных документах на эти транспортные средства. Действие знака не распространяется на механические транспортные средства Вооруженных Сил Российской Федерации, полиции, аварийно-спасательных служб и формирований, пожарной охраны, скорой медицинской помощи, аварийной службы газовой сети и механические транспортные средства организаций федеральной почтовой связи, имеющие на боковой поверхности белую диагональную полосу на синем фоне, эмблему организаций федеральной почтовой связи, надпись Почта России или белую продольную полосу на синем фоне, эмблему организации специальной почтовой связи, надпись Спецсвязь, электромобили, транспортные средства, на которых установлен опознавательный знак Инвалид, а также на транспортные средства, которые принадлежат гражданам, проживающим в обозначенной зоне.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.35.png?raw=true"
       },
         {
         "name": "Знак 5.36 Конец зоны с ограничением экологического класса механических транспортных средств",
         "description": "Показывают место, где заканчивают действовать ограничения, которые введены знаками 5.35. ",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.36.png?raw=true"
       },
         {
         "name": "Знак 5.37 Зона с ограничением экологического класса по видам транспортных средств",
         "description": "Место, с которого начинается территория (участок дороги), где запрещено движение указанных на знаке видов транспортных средств: экологический класс которых, указанный в регистрационных документах на эти транспортные средства, ниже экологического класса, указанного на знаке; экологический класс которых не указан в регистрационных документах на эти транспортные средства. Действие знака не распространяется на механические транспортные средства Вооруженных Сил Российской Федерации, полиции, аварийно-спасательных служб и формирований, пожарной охраны, скорой медицинской помощи, аварийной службы газовой сети и механические транспортные средства организаций федеральной почтовой связи, имеющие на боковой поверхности белую диагональную полосу на синем фоне, эмблему организаций федеральной почтовой связи, надпись Почта России или белую продольную полосу на синем фоне, эмблему организации специальной почтовой связи, надпись Спецсвязь, электромобили, транспортные средства, на которых установлен опознавательный знак Инвалид, а также на транспортные средства, которые принадлежат гражданам, проживающим в обозначенной зоне.",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.37.png?raw=true"
       },
         {
         "name": "Знак 5.38. Конец зоны с ограничением экологического класса по видам транспортных средств",
         "description": "Показывают место, где заканчивают действовать ограничения, которые введены знаками 5.37. ",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.38.png?raw=true"
       },
         {
         "name": "Знак 5.39 Велосипедная зона",
         "description": "Место, с которого начинается велосипедная зона. ",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.39.png?raw=true"
       },
         {
         "name": "Знак 5.40 Конец велосипедной зоны",
         "description": "",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.40.png?raw=true"
       },
         {
         "name": "Знак 5.41 Зона с ограничением остановки",
         "description": "",
-        "image": "url_to_sign_image"
+        "image":  "https://github.com/karina-kasirina/roadsing/blob/main/5.41.png?raw=true"
       },
        {
         "name": "Знак 5.42 Конец зоны с ограничением остановки",
         "description": "",
-        "image": "url_to_sign_image"
+        "image": "https://github.com/karina-kasirina/roadsing/blob/main/5.42.png?raw=true""
       }
     ],
     "information": [
