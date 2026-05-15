@@ -1284,11 +1284,11 @@
         "description": "Указывает на место зарядки электромобилей. (Изменения вступили в силу: 1 марта 2023 года. )",
         "image": "https://github.com/karina-kasirina/roadsing/blob/main/8.26.png?raw=true"
       },
-       {
+           {
         "name": "Знак 8.27 Без пропуска",
         "description": "Разрешает въезд в зону действия запрещающего знака только при наличии пропуска от уполномоченных органов. (Изменения вступили в силу: 1 января 2026 г.)",
         "image": "https://github.com/karina-kasirina/roadsing/blob/main/8.27.png?raw=true"
-     }
+      }
     ]
   }
 }
