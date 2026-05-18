@@ -825,7 +825,7 @@
       "main_questions": [
         {
           "text": "Сколько проезжих частей имеет данная дорога?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-1.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-1.jpeg",
           "options": ["Одну.", "Две.", "Четыре."],
           "correctAnswer": 0,
           "category": "Обгон и маневрирование",
@@ -833,7 +833,7 @@
         },
         {
           "text": "При наличии какого знака водитель должен уступить дорогу, если встречный разъезд затруднен?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-2.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-2.jpeg",
           "options": ["Только В.", "А и В.",  "Б и В.", "Б и Г."],
           "correctAnswer": 1,
           "category": "Предупреждающие знаки",
@@ -841,7 +841,7 @@
         },
         {
           "text": "Какой из указанных знаков распространяет свое действие только на ту полосу, над которой он установленРазрешена ли Вам стоянка в указанном месте?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-3.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-3.jpeg",
           "options": ["Разрешена.", "Разрешена только в светлое время суток..", "Запрещена."],
           "correctAnswer": 0,
           "category": "Запрещающие знаки",
@@ -849,7 +849,7 @@
         },
         {
           "text": "Нарушил ли водитель грузового автомобиля правила стоянки?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-4.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-4.jpeg",
           "options": ["Нарушил.", "Не нарушил, если разрешенная максимальная масса автомобиля не более 3,5 т.", "Не нарушил."],
           "correctAnswer": 0,
           "category": "Проезд перекрестков",
@@ -857,7 +857,7 @@
         },
         {
           "text": "О чем предупреждает Вас вертикальная разметка, нанесенная на ограждение дороги?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-5.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-5.jpeg",
           "options": ["О приближении к железнодорожному переезду.", "О приближении к опасному перекрестку.", "О движении по опасному участку дороги."],
           "correctAnswer": 2,
           "category": "Дорожная разметка",
@@ -865,7 +865,7 @@
         },
         {
           "text": "Разрешается ли водителю продолжить движение после переключения зеленого сигнала светофора на желтый, если возможно остановиться перед перекрестком, только применив экстренное торможение?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/without.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/without.jpeg",
           "options": ["Разрешается.", "Разрешается, если водитель намерен проехать перекресток только в прямом направлении.", "Запрещается."],
           "correctAnswer": 0,
           "category": "Сигналы светофора и регулировщика",
@@ -873,7 +873,7 @@
         },
         {
           "text": "Поднятая вверх рука водителя мотоцикла является сигналом, информирующим Вас о его намерении:",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-7.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-7jpeg",
           "options": ["Продолжить движение прямо.", "Повернуть направо.", "Снизить скорость, чтобы остановиться и уступить дорогу легковому автомобилю."],
           "correctAnswer": 2,
           "category": "Сигналы светофора и регулировщика",
@@ -881,7 +881,7 @@
         },
         {
           "text": "В каких направлениях Вам можно продолжить движение по левой полосе на грузовом автомобиле с разрешенной максимальной массой не более 3,5 т?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-8.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-8.jpeg",
           "options": ["Только прямо.", "Прямо и направо.", "Прямо, налево и в обратном направлении."],
           "correctAnswer": 2,
           "category": "Дорожная разметка",
@@ -889,7 +889,7 @@
         },
         {
           "text": "Вам необходимо повернуть на примыкающую справа дорогу. Ваши действия?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-9.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-9.jpeg",
           "options": ["Не меняя полосы, снизить скорость, затем перестроиться на полосу торможения.", "Не меняя скорости, перестроиться на полосу торможения, затем снизить скорость.", "Возможны оба варианта действий."],
           "correctAnswer": 1,
           "category": "Проезд перекрестков",
@@ -897,7 +897,7 @@
         },
         {
           "text": "С какой максимальной скоростью Вы имеете право продолжить движение вне населенных пунктов на легковом автомобиле с прицепом?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-10.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-10.jpeg",
           "options": ["50 км/ч.", "60 км/ч.", "70 км/ч.", "80 км/ч.", "90 км/ч."],
           "correctAnswer": 2,
           "category": "Запрещающие знаки",
@@ -905,7 +905,7 @@
         },
         {
           "text": "Разрешен ли Вам обгон?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-11.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-11.jpeg",
           "options": ["Разрешено.", "Разрешен, если обгон будет завершен до перекрестка.", "Запрещено."],
           "correctAnswer": 0,
           "category": "Дорожная разметка",
@@ -913,7 +913,7 @@
         },
         {
           "text": "Кто из водителей нарушил правила стоянки?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-12.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-12.jpeg",
           "options": ["Оба.", "Только водитель автомобиля А.", "Только водитель автомобиля Б.", "Никто не нарушил."],
           "correctAnswer": 1,
           "category": "Дорожная разметка",
@@ -921,7 +921,7 @@
         },
         {
           "text": "Вы намерены развернуться. Ваши действия?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-13.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-13.jpeg",
           "options": ["Проедете перекресток первым.", "Выполните разворот, уступив дорогу легковому автомобилю.", "Дождетесь, когда регулировщик опустит правую руку."],
           "correctAnswer": 1,
           "category": "Обгон и маневрирование",
@@ -929,7 +929,7 @@
         },
         {
           "text": "Кому Вы должны уступить дорогу при движении в прямом направлении?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-14.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-14.jpeg",
           "options": ["Только трамваю.", "Только легковому автомобилю.", "Обоим транспортным средствам."],
           "correctAnswer": 0,
           "category": "ДТП и аварийные ситуации",
@@ -937,7 +937,7 @@
         },
         {
           "text": "Как Вам следует поступить при повороте налево?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-15.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-15.jpeg",
           "options": ["Проехать перекресток первым.", "Уступить дорогу только грузовому автомобилю с включенным проблесковым маячком.", "Уступить дорогу обоим транспортным средствам."],
           "correctAnswer": 0,
           "category": "Проезд перекрестков",
@@ -945,7 +945,7 @@
         },
         {
           "text": "Разрешено ли Вам проехать железнодорожный переезд??",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-16.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-16.jpeg",
           "options": ["Разрешено, поскольку дежурный по переезду запрещает движение только встречному автомобилю.", "Разрешено, если отсутствует приближающийся поезд.", "Запрещено."],
           "correctAnswer": 2,
           "category": "Предупреждающие знаки",
@@ -977,7 +977,7 @@
         },
         {
           "text": "При движении в условиях тумана расстояние до предметов представляется:",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-20.jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/5-20.jpeg",
           "options": ["Большим, чем в действительности.", "Соответствующим действительности.", "Меньшим, чем в действительности."],
           "correctAnswer": 0,
           "category": "Ответственность водителя",
