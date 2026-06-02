@@ -1080,7 +1080,7 @@
         },      
         {
           "text": "Вы намерены продолжить движение по главной дороге. Обязаны ли Вы включить указатели левого поворота?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/6-7jpg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/6-7.jpg",
           "options": ["Обязаны.", "Обязаны, если с других направлений приближаются транспортные средства.", "Не обязаны."],
           "correctAnswer": 0,
           "category": "Начало движения, маневрирование",
