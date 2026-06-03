@@ -865,7 +865,7 @@
         },
         {
           "text": "Разрешается ли водителю продолжить движение после переключения зеленого сигнала светофора на желтый, если возможно остановиться перед перекрестком, только применив экстренное торможение?",
-          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/without.jpeg",
+          "image": "https://raw.githubusercontent.com/karina-kasirina/roadsing/main/without.jpg",
           "options": ["Разрешается.", "Разрешается, если водитель намерен проехать перекресток только в прямом направлении.", "Запрещается."],
           "correctAnswer": 0,
           "category": "Сигналы светофора и регулировщика",
